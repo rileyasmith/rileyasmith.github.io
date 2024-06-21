@@ -2,13 +2,14 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     padding: 0 20px;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #0d1117;
+    color: #c9d1d9;
 }
 
 header {
     text-align: center;
     padding: 20px 0;
+    color: #f0f6fc;
 }
 
 header img {
@@ -24,16 +25,20 @@ header h1 {
 
 header p {
     font-size: 1.2em;
-    color: #777;
+    color: #8b949e;
 }
 
 section {
     margin: 20px 0;
+    background-color: #161b22;
+    padding: 20px;
+    border-radius: 6px;
 }
 
 section h2 {
     font-size: 2em;
     margin-bottom: 10px;
+    color: #c9d1d9;
 }
 
 .project {
@@ -43,14 +48,16 @@ section h2 {
 .project h3 {
     font-size: 1.5em;
     margin-bottom: 5px;
+    color: #c9d1d9;
 }
 
 .project p {
     margin-bottom: 5px;
+    color: #8b949e;
 }
 
 .project a {
-    color: #0066cc;
+    color: #58a6ff;
     text-decoration: none;
 }
 
@@ -58,5 +65,6 @@ footer {
     text-align: center;
     margin: 20px 0;
     font-size: 0.9em;
-    color: #777;
+    color: #8b949e;
 }
+
