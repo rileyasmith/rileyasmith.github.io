@@ -5,7 +5,6 @@ This repository hosts the source code for Tungsten, which is deployed on GitHub 
 
 ## Table of Contents
 - [Live Demo](#live-demo)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 - [Contact](#contact)
