@@ -21,7 +21,7 @@ Visit the live version of the website at: [rileyasmith.github.io](https://rileya
 
 ## License
 
-You can view the license by clicking [here]().
+You can view the license by clicking [here](https://github.com/rileyasmith/rileyasmith.github.io?tab=MIT-1-ov-file).
 
 ## Contact
 
