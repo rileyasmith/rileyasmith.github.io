@@ -33,12 +33,11 @@ body {
         background-color: #a2cffe;
         color: #0f0f0f;
         font-family: "Poppins", sans-serif;
-		    height: 59px;
+		    height: 38px;
 		    border-radius: 5px;
       }
         
       .text-input {
-        display: flex;
         font-family: "Poppins", sans-serif;
         border: 0px;
         width: 200px;
