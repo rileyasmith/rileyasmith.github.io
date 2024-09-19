@@ -38,6 +38,7 @@ body {
       }
         
       .text-input {
+        display: flex;
         font-family: "Poppins", sans-serif;
         border: 0px;
         width: 200px;
