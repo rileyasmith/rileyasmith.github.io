@@ -30,19 +30,20 @@ body {
       }
         
       button {
-          background-color: #a2cffe;
-          color: #0f0f0f;
-          font-family: "Poppins", sans-serif;
-		  height: 59px;
-		  border-radius: 5px;
+        background-color: #a2cffe;
+        color: #0f0f0f;
+        font-family: "Poppins", sans-serif;
+		    height: 59px;
+		    border-radius: 5px;
       }
         
       input {
-          font-family: "Poppins", sans-serif;
-          border: 0px;
-          width: 200px;
-		  height: 25px;
-		  border-radius: 5px;
+        font-family: "Poppins", sans-serif;
+        border: 0px;
+        width: 200px;
+		    height: 18px;
+        padding: 10px 0;
+		    border-radius: 5px;
       }
 
       .content {
