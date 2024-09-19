@@ -37,7 +37,7 @@ body {
 		    border-radius: 5px;
       }
         
-      input {
+      .text-input {
         font-family: "Poppins", sans-serif;
         border: 0px;
         width: 200px;
