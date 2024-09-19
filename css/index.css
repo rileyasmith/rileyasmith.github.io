@@ -36,7 +36,12 @@ body {
 		    height: 38px;
 		    border-radius: 5px;
       }
+
+      .login-field .fa-solid {
+        position: absolute;
         
+      }
+
       .inputtext {
         font-family: "Poppins", sans-serif;
         border: 0px;
