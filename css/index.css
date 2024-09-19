@@ -39,7 +39,8 @@ body {
 
       .login-field .fa-solid {
         position: absolute;
-        
+        padding: 10px;
+        min-width: 24px;
       }
 
       .inputtext {
