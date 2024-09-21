@@ -32,7 +32,7 @@ jobs:
           FIREBASE_APP_ID: ${{ secrets.FIREBASE_APP_ID }}
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.3.9
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages  # The branch you want to deploy to (often 'gh-pages')
           folder: build  # The folder where your built files are located
