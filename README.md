@@ -1,5 +1,5 @@
-## Welcome to [tungsten], my personal website project.
-Tungsten is my personal website I have been working on since 22/08/2024 (dd/mm/yyyy for you Americans). The website is made as my portfolio, project archive and other relevant content about my projects. It is built using HTML, CSS, and JavaScript.
+## Welcome to Crypt's Archive, my personal website project.
+Crypt's Archive is my personal website I have been working on since the 22nd of August 2024. The website is made as my portfolio, project archive and other relevant content about my projects. It is built using HTML, CSS, and JavaScript.
 
 This repository hosts the source code for Tungsten, which is deployed on GitHub Pages at [rileyasmith.github.io](https://rileyasmith.github.io/).
 
@@ -16,7 +16,7 @@ Visit the live version of the website at: [rileyasmith.github.io](https://rileya
 ## Technologies Used
 - **HTML5**: Used to build the actual web pages.
 - **CSS3**: All the styling for the project.
-- **JavaScript (ES6)**: Used to create the invite code function
+- **JavaScript (ES6)**: Used to create the invite code function.
 - **GitHub Pages**: Hosting the website directly from this GitHub repository.
 
 ## License
