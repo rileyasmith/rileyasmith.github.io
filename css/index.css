@@ -30,9 +30,9 @@
         font-size: 14px;
       }
         
-      body h3 {
+      body h2 {
           color: #a2cffe;
-          font-family: "Poppins", sans-serif;
+          font-family: "Space Mono", monospace;
           font-weight: 700;
           font-style: normal;
       }
