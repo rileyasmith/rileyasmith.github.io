@@ -1,7 +1,7 @@
 ## Welcome to Crypt's Archive, my personal website project.
 Crypt's Archive is my personal website I have been working on since the 22nd of August 2024. The website is made as my portfolio, project archive and other relevant content about my projects. It is built using HTML, CSS, and JavaScript.
 
-This repository hosts the source code for Tungsten, which is deployed on GitHub Pages at [rileyasmith.github.io](https://rileyasmith.github.io/).
+This repository hosts the source code for Crypt's Archive, which is deployed on GitHub Pages at [rileyasmith.github.io](https://rileyasmith.github.io/).
 
 ## Table of Contents
 - [Live Demo](#live-demo)
