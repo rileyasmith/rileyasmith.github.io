@@ -1,4 +1,4 @@
-body {
+      body {
         margin: 0;
         height: 100vh;
         display: flex;
@@ -64,4 +64,20 @@ body {
       .page-footer {
         display: flex;
         justify-content: center;
+      }
+
+      .hero {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #171717;
+      }
+
+      .hero h1 {
+        font-family: "Space Mono", monospace;
+        font-weight: 700;
+        font-style: normal;
+        color: #a2cffe;
       }
