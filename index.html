@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Crypt's Archive</title>
+    <link rel="icon" href="assets/favicon.jpg" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="./css/index.css">
+    <script src="https://kit.fontawesome.com/8f6df53f59.js" crossorigin="anonymous"></script>
+    <script src="./js/hero-text.js"></script>
+  </head>
+  <body>
+    <header class="page-header">
+      <nav class="navbar">
+        <a href="#" class="home-ref"> CRYPT'S ARCHIVE </a>
+        <a href="#" class="nav-item">About</a>
+        <a href="#" class="nav-item">Explore</a>
+        <a href="#" class="nav-item">Contribute</a>
+        <div class="right-nav">
+          <button href="register.html" class="signup-button">Login/Register</a>
+        </div>
+      </nav>
+    </header>
+
+    <div class="content">
+      <h2> CRYPT'S ARCHIVE </h2>
+      <!-- <h3> Crypt's Archive </h3> -->
+      <p> This website acts as a portfolio to show off my projects and other things I have made. </p>
+      <p> You will need to enter the password to access the website. </p>
+      <form class="login-form" action="homepage.html" onsubmit="validateInviteCode(event)">
+        <input type="password" class="inputtext" name="invitecode" maxlength="6" placeholder="Enter password" required>
+        <button type="submit" name="register"><i class="fa-solid fa-arrow-right"></i></button>
+      </form>
+	<script src="./js/validateInviteCode.js"></script>
+	  <!-- Footer of website -->
+      <table cellspacing="0" cellpadding="2" border="0" width="100%">
+        <tbody>
+          <p style="font-weight: 700">
+            <!-- <a href="https://youtube.com/fortnite"> about </a>
+            &nbsp;&nbsp;
+            <a href="mailto:rileyasmith@proton.me"> contact </a>
+            &nbsp;&nbsp;
+            <a href="./information/terms.html">terms</a>
+            &nbsp;&nbsp;
+            <a href="./information/privacy.html">privacy</a>
+            <br> -->
+            <a class="source-code-link" href="https://github.com/rileyasmith/rileyasmith.github.io"><i class="fa-brands fa-github"></i>View the source code here.</a>
+            <br>
+            &copy; 2024 Riley Smith
+          </p>
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
