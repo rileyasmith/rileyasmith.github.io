@@ -58,7 +58,6 @@ body {
     border-color: #818181;
     border-radius: 10px;		
     max-width: 806px;
-    animation: spin 2s linear infinite;
   }
   
   .item-card h2 {
