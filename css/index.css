@@ -70,7 +70,7 @@
       .page-header {
         padding: 10px 20px;
         background-color: #171717;
-        width: 100vh;
+        max-width: 100vh;
       }
 
       .navbar {
