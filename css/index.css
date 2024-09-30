@@ -66,12 +66,35 @@
         justify-content: center;
       }
 
-      .hero {
-        margin: 0;
-        height: 100vh;
-        width: 100vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+
+      /* Page Header CSS */
+      .page-header {
+        padding: 10px 20px;
         background-color: #171717;
+      }
+
+      .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .home-ref {
+        color: #a2cffe;
+        text-decoration: none;
+        margin-left: 16px;
+      }
+
+      .nav-item {
+        color: #ebe5e5;
+        text-decoration: none;
+        margin-left: 16px;
+      }
+
+      .nav-item:hover, .nav-item:focus {
+        color: #ffffff
+      }
+
+      .right-nav {
+        display: flex;
       }
