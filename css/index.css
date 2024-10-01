@@ -102,7 +102,7 @@
     }
 
     .hero {
-      background-image: url('ee.avif');
+      background-image: url('./assets/hero-background-image.png');
       background-size: cover;
       background-position: center;
       height: 50vh;
