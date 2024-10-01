@@ -145,3 +145,13 @@
     .cta-button:hover {
       background-color: rgb(90, 155, 255);
     }
+
+    .page-section {
+      background-color: #0f0f0f;
+      height: 50vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: white;
+    }
