@@ -11,22 +11,22 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="./css/index.css">
-    <link rel="stylesheet" href="./css/tailwind.css">
     <script src="https://kit.fontawesome.com/8f6df53f59.js" crossorigin="anonymous"></script>
     <script src="./js/hero-text.js"></script>
   </head>
   <body>
-    <header class="page-header">
-      <nav class="navbar">
-        <a href="#" class="home-ref"> CRYPT'S ARCHIVE </a>
-        <a href="#" class="nav-item">About</a>
-        <a href="#" class="nav-item">Explore</a>
-        <a href="#" class="nav-item">Contribute</a>
-        <div class="right-nav">
-          <button href="register.html" class="signup-button">Login/Register</a>
-        </div>
-      </nav>
-    </header>
+
+    <header class="header">
+      <div class="container">
+          <a href="#" class="logo">Crypt's Archive</a>
+          <nav class="nav">
+              <a href="#">About</a>
+              <a href="#">Features</a>
+              <a href="#">Open Source</a>
+              <a href="#">Contribute</a>
+          </nav>
+      </div>
+  </header>
 
     <div class="content">
       <h2> CRYPT'S ARCHIVE </h2>
@@ -35,6 +35,7 @@
       <p> You will need to enter the password to access the website. </p>
       <form class="login-form" action="homepage.html" onsubmit="validateInviteCode(event)">
         <input type="password" class="inputtext" name="invitecode" maxlength="6" placeholder="Enter password" required>
+        <button type="submit" name="register"><i class="fa-solid fa-arrow-right"></i></button>
       </form>
 	<script src="./js/validateInviteCode.js"></script>
 	  <!-- Footer of website -->
