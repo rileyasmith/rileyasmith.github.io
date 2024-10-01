@@ -147,11 +147,10 @@
     }
 
     .page-section {
-      background-color: #0f0f0f;
-      height: 50vh;
-      display: flex;
+      margin: 0;
+      height: 25vh;
+      width: 100vw;
       justify-content: center;
       align-items: center;
-      text-align: center;
-      color: white;
+      background-color: #0f0f0f;
     }
