@@ -116,6 +116,20 @@
     .hero-content {
       max-width: 600px;
     }
+
+    .hero-content h1 {
+      font-size: 36px;
+      font-family: "Space Mono", monospace;
+      font-weight: 700;
+      color: #a2cffe;
+    }
+
+    .hero-content p {
+      color: #f0f0f0;
+      font-family: "Poppins", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
     
     .cta-button {
       background-color: #007bff;
