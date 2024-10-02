@@ -200,10 +200,11 @@
     }
 
     @keyframes move {
-      0% {
+      0%, 100% {
         background-position: 0 0;
       }
-      100% {
-        background-position: 40px 40px;
+      
+      50% {
+        background-position: 50px 50px;
       }
     }
