@@ -25,10 +25,15 @@
 
       .source-code-link {
         color: #f0f0f0;
+        justify-content: space-between;
         font-family: "IBM Plex Mono", monospace;
         font-weight: 400;
         font-style: normal;
         font-size: 0.875rem;
+      }
+      
+      .source-code-link i {
+        padding-right: 0%;
       }
         
       body h2 {
