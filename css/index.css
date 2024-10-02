@@ -122,9 +122,13 @@
     }
     
     .hero-content {
-      max-width: 1250px;
+      max-width: 680px;
       background-color: #171717;
       border-radius: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
 
     .hero-content h1 {
