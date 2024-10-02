@@ -123,6 +123,8 @@
     
     .hero-content {
       max-width: 1000px;
+      background-color: #171717;
+      border-radius: 5px;
     }
 
     .hero-content h1 {
