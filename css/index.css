@@ -117,6 +117,7 @@
       align-items: center;
       text-align: center;
       color: white;
+      animation: hero-bg 4s linear infinite;
     }
     
     .hero-content {
@@ -196,4 +197,13 @@
       font-size: 0.875rem;
       font-family: "IBM Plex Mono", monospace;
       font-weight: 700;
+    }
+
+    @keyframes hero-bg {
+      0% {
+        background-position: 0 0;
+      }
+      100% {
+        background-position: 40px 40px;
+      }
     }
