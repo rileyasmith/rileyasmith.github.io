@@ -118,7 +118,7 @@
       text-align: center;
       color: white;
       animation: move 20s ease-in infinite;
-      filter: blur(10px)
+      backdrop-filter: blur(10px)
     }
     
     .hero-content {
