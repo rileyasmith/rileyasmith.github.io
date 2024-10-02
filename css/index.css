@@ -32,8 +32,9 @@
         font-size: 0.875rem;
       }
       
-      .source-code-link i {
-        padding: 0%;
+      .source-code-link svg {
+        color: #f0f0f0;
+        size: 32px;
       }
         
       body h2 {
