@@ -44,6 +44,7 @@
         font-family: "Poppins", sans-serif;
 		    height: 40px;
 		    border-radius: 5px;
+        border-style: none;
       }
 
       .inputtext {
