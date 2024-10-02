@@ -117,7 +117,7 @@
       align-items: center;
       text-align: center;
       color: white;
-      animation: hero-bg 4s linear infinite;
+      animation: move 4s linear infinite;
     }
     
     .hero-content {
@@ -199,7 +199,7 @@
       font-weight: 700;
     }
 
-    @keyframes hero-bg {
+    @keyframes move {
       0% {
         background-position: 0 0;
       }
