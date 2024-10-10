@@ -101,3 +101,62 @@ body {
   .visit-button p {
       color: #0f0f0f;
   }
+
+  .header {
+    background-color: #171717;
+    padding: 10px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100vw;
+    height: 30px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo {
+    color: #a2cffe;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+}
+
+.nav a {
+    color: #ffffff;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+ /* Font Mono: Regular, Medium, Semibold, Bold */
+ .font-mono-regular {
+  font-size: 0.875rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+}
+
+.font-mono-regular {
+  font-size: 0.875rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+}
+
+.font-mono-regular {
+  font-size: 0.875rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 600;
+}
+
+.font-mono-regular {
+  font-size: 0.875rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 700;
+}
